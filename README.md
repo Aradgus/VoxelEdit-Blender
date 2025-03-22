@@ -12,4 +12,4 @@ This is a prototype and only works with 2x2x2 cubes.
 
 link to the video explaining how to use the addon: https://youtu.be/VyV-fxPe-Ag
 
-link to the video where i talk about the development of the addon:
+link to the video where i talk about the development of the addon: https://youtu.be/VegbAhiXn7I
